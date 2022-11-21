@@ -28,3 +28,4 @@ A fast and secure runtime for WebAssembly
 
 https://nigelpoulton.com/what-is-cloud-native-webassembly/
 
+https://cosmonic.com/blog/dotnet-are-we-webassembly-yet/
